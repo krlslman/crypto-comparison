@@ -1,7 +1,5 @@
 This repository provides a comparison of two cryptocurrencies, using data retrieved from a public API. The project includes interactive graphs that visualize the comparison between the two coins, allowing users to easily compare the performance of each coin over time.
-<img src="[https://i.ibb.co/kyVLp4Q/Coin-Comparison-Preview.webp](https://i.ibb.co/kyVLp4Q/Coin-Comparison-Preview.webp)" alt="Coin-Comparison-Preview" style="height: 300px; width:500px;"/>
 ![preview](https://i.ibb.co/kyVLp4Q/Coin-Comparison-Preview.webp "preview")
-![preview](https://i.ibb.co/kyVLp4Q/Coin-Comparison-Preview.webp)
 
 # Getting Started with Create React App
 
